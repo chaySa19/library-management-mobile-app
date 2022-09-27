@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/Desktop/ChaymaeSAAD_hibaMoustaid/loginkotlin (2)PROJECT/loginkotlin/app/src/main/res/layout/card_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Desktop/ChaymaeSAAD_hibaMoustaid/loginkotlin (2)PROJECT/loginkotlin/app/src/main/res/layout/parent_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Desktop/loginkotlin (1)11/loginkotlin (1)/loginkotlin/app/src/main/res/layout/activity_list_vertical.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Desktop/loginkotlin (1)11/loginkotlin (1)/loginkotlin/app/src/main/res/layout/activity_livres_reserve.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Desktop/loginkotlin (1)11/loginkotlin (1)/loginkotlin/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Desktop/loginkotlin (1)11/loginkotlin (1)/loginkotlin/app/src/main/res/layout/activity_pageone.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Desktop/loginkotlin (1)11/loginkotlin (1)/loginkotlin/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Desktop/loginkotlin (1)11/loginkotlin (1)/loginkotlin/app/src/main/res/layout/card_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Desktop/loginkotlin (1)11/loginkotlin (1)/loginkotlin/app/src/main/res/layout/fragment_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Desktop/loginkotlin (1)11/loginkotlin (1)/loginkotlin/app/src/main/res/layout/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Desktop/loginkotlin (1)11/loginkotlin (1)/loginkotlin/app/src/main/res/layout/parent_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Desktop/loginkotlin (1)11/loginkotlin (1)/loginkotlin/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (1)/loginkotlin/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.2203125" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (1)/loginkotlin/app/src/main/res/drawable-v24/ic_flesh_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (1)/loginkotlin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (1)/loginkotlin/app/src/main/res/drawable/custom_button.xml" value="0.2203125" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (1)/loginkotlin/app/src/main/res/drawable/custom_edittext.xml" value="0.2203125" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (1)/loginkotlin/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (1)/loginkotlin/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (1)/loginkotlin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (1)/loginkotlin/app/src/main/res/layout/activity_list_vertical.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (1)/loginkotlin/app/src/main/res/layout/activity_pageone.xml" value="0.25" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (1)/loginkotlin/app/src/main/res/layout/activity_sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (1)/loginkotlin/app/src/main/res/layout/back.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (1)/loginkotlin/app/src/main/res/layout/card_layout.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (1)/loginkotlin/app/src/main/res/layout/fragment_detail.xml" value="0.30523255813953487" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (2)/loginkotlin/app/src/main/res/layout/activity_list_vertical.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (2)/loginkotlin/app/src/main/res/layout/activity_livres_reserve.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (2)/loginkotlin/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (2)/loginkotlin/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (2)/loginkotlin/app/src/main/res/layout/activity_pageone.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HP/Downloads/loginkotlin (2)/loginkotlin/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/loginkotlin/app/src/main/res/drawable-v24/ic_flesh_background.xml" value="0.1" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/loginkotlin/app/src/main/res/drawable-v24/ic_flesh_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/loginkotlin/app/src/main/res/drawable/custom_button.xml" value="0.1" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/loginkotlin/app/src/main/res/drawable/custom_edittext.xml" value="0.1" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/loginkotlin/app/src/main/res/layout/activity_list_vertical.xml" value="0.1" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/loginkotlin/app/src/main/res/layout/activity_livres_reserve.xml" value="0.15416666666666667" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/loginkotlin/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/loginkotlin/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/loginkotlin/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/loginkotlin/app/src/main/res/layout/activity_pageone.xml" value="0.1" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/loginkotlin/app/src/main/res/layout/activity_profile.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/loginkotlin/app/src/main/res/layout/activity_sign_up.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/loginkotlin/app/src/main/res/layout/book_found.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/loginkotlin/app/src/main/res/layout/card_layout.xml" value="0.1" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/loginkotlin/app/src/main/res/layout/fragment_detail.xml" value="0.15416666666666667" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/loginkotlin/app/src/main/res/layout/parent_layout.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/design_default_color_on_primary"
+    android:clickable="true"
+
+    tools:context=".FragmentDetail">
+
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardview_id"
+        android:clickable="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:layout_width="145dp"
+        android:layout_height="230dp"
+        xmlns:cardview="http://schemas.android.com/apk/res-auto"
+
+        android:layout_margin="20dp"
+        cardview:cardCornerRadius="6dp"
+        cardview:cardElevation="15dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/book_img_id"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                android:background="@color/white"/>
+
+
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <RelativeLayout
+        android:layout_width="268dp"
+        android:layout_height="279dp"
+        android:layout_marginLeft="155dp"
+        android:layout_marginTop="20dp"
+        android:padding="16dp">
+
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="16dp"
+            android:fontFamily="sans-serif-thin"
+
+            android:text="Titlegjhjghhg"
+            android:textColor="@color/black"
+            android:textSize="22sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/author"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/title"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginBottom="-26dp"
+
+            android:fontFamily="sans-serif-thin"
+            android:text="descrkjhdfkgdfghhiption"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/author"
+            android:layout_marginLeft="5dp"
+
+
+            android:layout_marginBottom="-55dp"
+            android:backgroundTint="#00FFFFFF"
+            android:text="Button"
+            android:textColor="#000000"
+            android:textColorHint="#000000" />
+
+        <Button
+            android:id="@+id/Reserver"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/author"
+            android:layout_alignParentStart="true"
+
+
+
+            android:layout_marginLeft="5dp"
+            android:layout_marginBottom="-111dp"
+            android:backgroundTint="#59DD5F"
+
+            android:text="Reserver" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="431dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="300dp"
+        android:padding="16dp">
+
+
+        <TextView
+            android:id="@+id/desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="135dp"
+            android:fontFamily="serif-monospace bold"
+
+            android:text="Description"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/page"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="60dp"
+            android:fontFamily="serif-monospace bold"
+
+            android:text="Pages"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/author1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+
+            android:layout_marginLeft="250dp"
+            android:layout_marginTop="60dp"
+            android:fontFamily="serif-monospace bold"
+
+            android:text="Auteur"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/authorvalue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/author1"
+            android:layout_alignBottom="@+id/author1"
+
+            android:layout_marginLeft="260dp"
+
+
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="-38dp"
+            android:fontFamily="sans-serif-thin"
+            android:text="titlr"
+            android:textColor="@color/grey"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/descContenu"
+            android:layout_width="383dp"
+            android:layout_height="241dp"
+            android:layout_below="@+id/desc"
+
+            android:layout_alignBottom="@+id/desc"
+
+
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginStart="0dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="12dp"
+            android:layout_marginEnd="3dp"
+            android:layout_marginBottom="-253dp"
+            android:fontFamily="sans-serif-thin"
+            android:text="Des"
+            android:textColor="@color/grey"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/title1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="0dp"
+            android:fontFamily="serif-monospace bold"
+
+            android:text="Titre"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/titlevalue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/title1"
+            android:layout_alignBottom="@+id/title1"
+
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="-38dp"
+            android:fontFamily="sans-serif-thin"
+
+            android:text="titlr"
+            android:textColor="@color/grey"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/nmbpage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/page"
+            android:layout_alignBottom="@+id/page"
+
+            android:layout_marginLeft="5dp"
+
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="-38dp"
+            android:fontFamily="sans-serif-thin"
+            android:text="titlr"
+            android:textColor="@color/grey"
+            android:textSize="15sp" />
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_width="35dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="1dp"
+            android:layout_marginTop="125dp"
+            android:src="@drawable/ic_baseline_menu_book_24" />
+
+    </RelativeLayout>
+
+
+</FrameLayout>
